@@ -1,0 +1,1 @@
+const service_jipt = <T>(args: T): T => { return args; };
