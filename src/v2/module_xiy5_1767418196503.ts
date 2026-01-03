@@ -1,0 +1,1 @@
+const util_xiy5 = (d: any) => d;
